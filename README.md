@@ -1,5 +1,17 @@
 # 家谱搬家
 
+> 家谱是姓氏文化的重要组成部分，其中‘穆’姓，目前全国总共约50w人，为较小的姓氏
+
+> 家族上下代成员可以交叉生活的时间多不出三代，而且在时空上只能是部分交叉。
+
+> 如果三十年为一代的话，则父亲只会了解爷爷的中晚年历史，孙辈只能直接接触爷爷的晚年
+
+> 清代历史学家章学诚强调，夫家有谱，州县有志，国有史，其义一也
+
+> 国有史而知兴替，家有谱而世系明
+
+> 汇集人文地理、家族聚散地理，是研究社会发展中，人口学、社会学、经济学、历史学、民族学、教育学、人物传记及地方史的重要资料。
+
 ### 1. 前提
 * 得有一份家谱
 * 通常都是纸质的，纸质的家谱存在较大弊端，比如不方便携带，不易保存，难于信息同步
@@ -104,211 +116,6 @@
 #### 漫长的码字
 mysql ,mysql workbench
 
-> '1','穆茂','1','1','0','明·禀膳生赠宁津主簿','廪膳生（lǐn shàn shēnɡ）即廪生， 明清两代称由公家给以膳食的生员。秀才中的一等是廪生，所谓廪生，就是秀才经过岁考和科考两试成绩优秀者。廪生政府每月给廪食。并有资格被选为贡生。廪生--廪膳生员，科举制度中生员名目之一。明府、州、县学生员最初每月都给廪膳，补助生活。名额有定数，明初府学四十人，州学三十人，县学二十人，每人月给廪米六斗。清沿其制，经岁、科两试一等前列者，方能取得廪名义。名额因州、县大小而异，每年发廪饩银四两。','MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-'2','穆贵','2','1','1','明·选贡任宁津主簿','选贡是指科举制度中由地方贡入国子监的生员之一种。\n明制，于岁贡之外考选学行俱优者充贡，因有此名。见《明史·选举志一》：“ 弘治中，南京祭酒章懋言：‘……乞於常贡外，令提学行选贡之法，不分廪膳、增广生员，通行考选，务求学行兼优、年富力强、累试优等者，乃以充贡。’”。清定拔贡、优贡之制，亦由此而来。','MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-'3','穆叢(cong)','2','2','1','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-'4','穆锦','2','3','1','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-'5','穆森','2','4','1','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-'6','穆经','3','1','2','明·麻吏目','吏目\n官名。金朝始置，为首领官。掌案牍和管辖吏员，负责处理官府内部具体公事。元朝沿置，亦为首领官。中下州地方官府中设一至二名，为流外职，任满可升为都目。例由路总管府、府、州司吏考满升入。明朝地方各州设，为州之属官，从九品。明代各州置吏目一人，从九品，掌出纳文书或分领州事；五城兵马司、京卫指挥使司、王府护卫指挥使司、王府仪卫司、都指挥使司、千户所等都设吏目，掌出纳文书之类。见《明史·职官三、四、五》。清朝五城兵马司、太医院、及各州均设吏目，太医院吏目与医士相同，五城兵马司及各州吏目掌管缉捕、守狱及文书等事。','MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-'7','穆宣','3','1','3','明·岁贡生赠巨鹿教谕','“教谕”宋代在京师设立的小学和武学中的教官。元明清县学皆置教谕，与训导共同负责县学的管理与课业，官为正八品，掌文庙祭拜，教育所属生员。','MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-'8','穆太','3','2','3','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-'9','穆振','3','3','3','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-'10','穆潭','3','1','4','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-'11','穆兰','3','2','4','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-'12','穆全','3','3','4','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-'13','穆珣','3','1','5','明·廪膳生妻薛氏归珣二载珣卒有遗腹孝事姑舅扶子成立寿八十余而终直指吴工生其门事载邑乘',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
-'14','穆永吉','4','1','7','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'15','穆永丰','4','2','7','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'16','穆永贞','4','3','7','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'17','穆永隆','4','4','7','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'18','穆永享','4','5','7','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'19','穆永成','4','1','8','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'20','穆永奎','4','1','9','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'21','穆永昌','4','2','9','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'22','穆永学','4','1','11','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'23','穆永时','4','1','12','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'24','穆永高','4','1','13','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'25','穆嚁(di)','5','1','19','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'26','穆朗','5','2','19','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'27','穆淮','5','1','20','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'28','穆以廉','5','1','22','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'29','穆以平','5','1','23','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'30','穆大有','5','1','24','邑庠生（邑旧指县，邑庠生，即县学生）',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'31','穆以宗','5','2','24','邑庠生（邑旧指县，邑庠生，即县学生）',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'32','穆以读','5','3','24','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'33','穆以恩','5','4','24','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'34','穆以耕','5','5','24','邑庠生（邑旧指县，邑庠生，即县学生）',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'35','穆以弟','5','1','14','邑庠生（邑旧指县，邑庠生，即县学生）',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'36','穆以孝','5','2','14','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'37','穆以教','5','1','15','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'38','穆琚','5','2','15','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'39','穆以莊','5','1','16','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'40','穆以臣','5','2','16','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'41','穆以仁','5','1','17','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'42','穆以中','5','1','18','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'43','穆珮','5','2','18','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'44','穆遇山','6','1','25','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'45','穆应夏','6','2','25','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'46','穆得春','6','1','26','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'47','穆自价','6','1','27','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'48','穆自僮','6','2','27','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'49','穆洧（wei）','6','1','28','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'50','穆自贤','6','1','29','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'51','穆自恭','6','2','29','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'52','穆渐','6','1','30','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'53','穆淳','6','1','31','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'54','穆润','6','1','33','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'55','穆滋','6','2','33','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'56','穆应春','6','1','34','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'57','穆遇春','6','1','35','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'58','穆际春','6','2','35','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'59','穆汝琏','6','1','38','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'60','穆文灼','7','1','57','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'61','穆文煠（ye）','7','2','57','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'62','穆文焕','7','1','58','邑庠生迁解封',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'63','穆文粲（can）','7','2','58','太学生','明朝、清朝时太学即国子监的俗称，在国子监就读的学生即被称作“太学生”。国子监是中国古代隋朝以后的中央官学，为中国古代教育体系中的最高学府。“太学生”就相当于今天的“北大（清华）高材生”的意思。当然，从政治角度理解，也可以理解为“中央党校优秀学员”','MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'64','穆守直','7','1','59','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,'主分支'
-'65','穆之栋','8','1','63','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'66','穆之梧','8','2','63','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'67','穆之俊','8','3','63','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'68','穆之周','8','4','63','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'69','穆之仪','8','1','62','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'70','穆之伟','8','2','62','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'71','穆之允','8','3','62','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'72','穆之斌','8','4','62','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'73','穆之让','8','5','62','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'74','穆之德','8','6','62','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'75','穆治宸（chen）','9','1','65','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'76','穆元宸','9','2','65','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'77','穆正宸','9','3','65','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'78','穆仁传','9','1','66','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'79','穆辅宸','9','1','67','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'80','穆言传','9','1','68','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'81','穆啓（qi）传','9','2','68','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'82','穆体传','9','3','68','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'83','穆道传','9','4','68','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'84','穆藩宸','9','1','71','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'85','穆钦宸','9','1','72','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'86','穆勷（xiang）宸','9','1','73','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'87','穆大倫（lun）','10','1','75','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'88','穆大任','10','2','75','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'89','穆大受','10','1','76','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'90','穆大成','10','1','77','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'91','穆大鹤','10','2','77','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'92','穆大士','10','1','78','应赠文林郎西茔（ying\\坟墓或坟地的意思）始祖',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'93','穆大生','10','2','78','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'94','穆起凤','10','1','79','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'95','穆大智','10','1','82','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'96','穆大勇','10','2','82','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'97','穆大典','10','1','83','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'98','穆大綸','10','1','84','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'99','穆大经','10','1','85','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'100','穆大鹏','10','1','86','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'101','穆顕（xian）林','11','1','88','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'102','穆成林','11','2','88','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'103','穆荣林','11','3','88','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'104','穆正林','11','4','88','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'105','穆桂林','11','1','89','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'106','穆廷林','11','2','89','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'107','穆兆（zhao）林','11','1','90','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'108','穆典章','11','1','92','恩赐耆老	[qí lǎo]','耆老	[qí lǎo]\n[释义]	老年人。特指德行高尚受尊敬的老人','MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'109','穆宪章','11','2','92','恩赐耆老	[qí lǎo]','耆老	[qí lǎo]\n[释义]	老年人。特指德行高尚受尊敬的老人','MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'110','穆成章','11','3','92','修职郎（八品）','明正八品初授迪功郎，升授修职郎；从八品初授边功佐郎，从八品授修职佐郎。修职郎、修职佐郎是正八品和从八品文官的散阶，散阶是授予官职时同时授予的虚衔，像今天军衔。','MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'111','穆玉林','11','1','93','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'112','穆上林','11','2','93','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'113','穆（失名）','11','1','100','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'114','穆昌林','11','1','87','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'115','穆光林','11','2','87','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'116','穆化林','11','3','87','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'117','穆凤','12','1','103','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'118','穆占鳌','12','1','105','附学生','附学生：科举制度中生员名目之一。通常简称附生。明正统时，府、州、县学除廪膳生员、增广生员外，始有取附学生员之制。清相沿，以尚未取得廪生、增生资格的生员为附生。','MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'119','穆占魁','12','2','105','徒外',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'120','穆占科','12','1','106','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'121','穆祥','12','1','107','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'122','穆凤翔','12','1','108','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'123','穆鹤鸣','12','2','108','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'124','穆鹏举','12','1','109','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'125','穆顕（xian）煜（yu）','12','1','110','','1774年·乾隆甲午科举人任获 嘉县训导，滑匪乱以守城，得疾卒，邑候陈公，志其墓事载，新邑乘京','MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'126','穆鱼化','12','2','110','赠广生',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'127','穆森','12','1','111','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'128','穆铎（duo）','12','1','112','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'129','穆贞','12','2','112','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'130','穆淮','12','1','113','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'131','穆兰','12','1','115','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'132','穆凰','12','1','116','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'133','穆汝霖','13','1','124','恩赐耆老	[qí lǎo]',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'134','穆汝谐','13','2','124','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'135','穆睿','13','1','125','增广生',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'136','穆生鳌','13','2','125','文林郎','出继；文林郎不是职官，而是散官，清朝时为正七品文官所授的散官名。散官用来定级别，就好比现在说“行政级别”一样。跟现在比的话，因为明清时知县均为正七品，所以大概可以算得上正处级干部。','MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'137','穆汝明','13','3','125','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'138','穆汝翼','13','4','125','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'139','穆汝弼（bi）','13','1','126','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'140','穆汝英','13','1','127','','出继','MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'141','穆洪东','13','2','127','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'142','穆汝英','13','1','128','','入继','MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'143','穆惠成','13','1','117','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'144','穆汝贵','13','1','120','恩赐耆老	[qí lǎo]',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'145','穆庆云','13','2','120','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'146','穆汝楫（ji）','13','3','120','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'147','穆汝舟','13','4','120','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'148','穆汝勷（xiang）','13','1','121','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'149','穆汝功','13','2','121','恩赐耆老	[qí lǎo]',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'150','穆汝成','13','3','121','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'151','穆汝钦（qin）','13','1','122','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'152','穆汝砺（li）','13','2','122','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'153','穆汝梅','13','1','123','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'154','穆汝玉','13','1','130','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'155','穆守成','13','1','131','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'156','穆顺成','13','2','131','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'157','穆玉成','13','3','131','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'158','穆有成','13','4','131','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'159','穆金成','13','1','132','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'160','穆思安','14','1','155','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'161','穆思礼','14','1','156','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'162','穆思仁','14','2','156','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'163','穆思文','14','3','156','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'164','穆思智','14','1','157','','入继','MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'165','穆思正','14','2','157','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'166','穆思敬','14','1','158','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'167','穆思恭','14','2','158','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'168','穆思可','14','1','159','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'169','穆思信','14','1','144','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'170','穆思存','14','1','145','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'171','穆思诚','14','2','145','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'172','穆思美','14','1','146','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'173','穆思聪','14','1','147','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'174','穆思和','14','2','147','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'175','穆思清','14','3','147','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'176','穆思任','14','1','148','正七品·奎文阁典籍','奎文阁又名奎星阁、魁星阁、文昌阁等，始建于清同治二十年(1873)。此楼以奎文冠阁名，是依据古书记载的“魁星”而来，魁星是汉族神话中所说的主宰文章兴衰的神，在儒士学子心目中，魁星具有至高无上的地位。\n奎文阁典籍”主要掌管历代帝王赐书、墨迹及典章制度，在古代的孔庙、文庙中，奎文阁是一种重要的建筑，用来存放经典书籍等。\n据统计，明末至清，八品以上入仕为官的如：奉政大夫、知县、文林郎、鸿卢寺，六品军功、修职郎，登士郎，奎文阁典籍，圣庙书写官等共二十八人','MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'177','穆思精','14','2','148','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'178','穆树栗（li）','14','1','149','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'179','穆思纯','14','1','150','恩赐耆老	[qí lǎo]',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'180','穆思道','14','2','150','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'181','穆思杰','14','3','150','正七品·奎文阁典籍',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'182','穆思行','14','4','150','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'183','穆思齐','14','5','150','恩赐耆老	[qí lǎo]',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'184','穆思忠','14','6','150','恩赐耆老	[qí lǎo]',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'185','穆思温','14','7','150','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'186','穆树芳','14','1','151','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'187','穆树屏','14','1','152','正七品·奎文阁典籍',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'188','穆树桂','14','1','153','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'189','穆树楷','14','1','133','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'190','穆树桐','14','2','133','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'191','穆树桢（zhen）','14','1','134','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'192','穆树模','14','2','134','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'193','穆树萱','14','3','134','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'194','穆树敏','14','1','135','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'195','穆树楠','14','1','137','附学生',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'196','穆树棠(tang)','14','2','137','附学生',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'197','穆树绩','14','1','138','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'198','穆树声','14','2','138','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'199','穆树德','14','3','138','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'200','穆树型','14','4','138','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'201','穆树本','14','5','138','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'202','穆树田','14','1','139','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-'203','穆树松','14','1','140','',NULL,'MAN',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,'dealth',NULL,NULL,NULL
-
-
 
 ### 图形化
 http://antv.alipay.com/zh-cn/g2/3.x/demo/facet/tree-column.html
@@ -329,3 +136,14 @@ http://antv.alipay.com/zh-cn/g2/3.x/demo/facet/tree-column.html
 * 15世的 @穆廷麟 ，是“一承两嗣”，双父分别为14世的 两位兄弟，@穆树芳 和 @穆树屏，怀疑是 @穆树屏 是官7品，但并无儿子，所以 兄弟穆树芳 将儿子进行了“一承两嗣”，由于穆树芳也是只有1个儿子，所以并未执行出继和入继的操作，而且16世的孙子辈@穆序垣（yuan） 继续 “一承两嗣”
 * 感叹：信息的高速丢失，哪怕只有几个字的批注，也可以自己同族的后人了解祖上相关祖先前辈的家族信息，更加坚定了我要把家谱电子信息化，并不断完善家族信息沉淀的意义。
 * 16世的 @穆文升 ，被过继给他的大伯@穆俾熙，穆文升是老大，他原本还有两个兄弟，穆干城和穆宗城。通过名字可以推测，他并未和他其他兄弟使用同一个辈分名字要求
+* 18世，清字辈儿，即我爷爷的那一代，有一支，兄弟3个（中华人民共和国解放前后时期），名字叫 穆清亚/穆清非/穆清拉，非常有时代气息。
+	* 亚非拉：亚洲、非洲和拉丁美洲国家的统称，也称为“第三世界”，这一概念最早由毛泽东同志于上世纪五六十年代提出，他指出：美苏为第一世界，亚非拉广大被压迫的国家和民族为第三世界，中间的为第二世界。
+	* 通过这3个人的名字，我也才纠正了，在家谱里树状图里，依然应该是左为上，即从左到右，依次是老大，老二，老三，依次类推
+	* 便从mysql的第一行，开始人肉把rank_index(内部排序的索引逆序了一遍)，如果行数再多，则只能写sql了，我还是选择了比较挫的方式，500多条数据，挨个人肉给各家的兄弟排行索引逆了个序。
+
+	
+### Action:
+* 大家回家尽早问问老爹或者爷爷（如果健在的话），老家（原籍）是否有家谱或者类似文字性的记载，把自己本家的家族历史进行了解
+	* 不管是男孩还是女孩，都有权利并应该知道自己的家族历代历史
+* 我已经约了父母和媳妇，最近几年找时间要去趟宁津县（今山东省内）
+	* 看看穆家这个全国总共只有50w人的姓氏的，在我们所处的这一支儿上的一代目（任明·宁津主簿，从七品的地方小官）的故里，是个什么样的地方
