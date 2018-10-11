@@ -9,5 +9,13 @@ module.exports = appInfo => {
   // add your config here
   config.middleware = [];
 
+  // 添加 view 配置
+  config.view = {
+    defaultViewEngine: 'nunjucks',
+    mapping: {
+      '.tpl': 'nunjucks',
+    },
+  };
+
   return config;
 };
