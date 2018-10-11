@@ -23,6 +23,10 @@ class NewsService extends Service {
                 return this.ctx.curl(url, { dataType: 'json' });
             })
         );
+
+
+        console.log('### service news');
+
         return newsList.map(res => res.data);
     }
 }
