@@ -9,4 +9,4 @@ module.exports = app => {
 
   router.get('/news', controller.news.list);
 };
-``
+'';
