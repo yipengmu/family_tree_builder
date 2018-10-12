@@ -5,6 +5,7 @@
   "private": true,
   "dependencies": {
     "egg": "^2.2.1",
+    "egg-mysql": "^3.0.0",
     "egg-scripts": "^2.5.0",
     "egg-view-nunjucks": "^2.2.0",
     "moment": "^2.22.2"
@@ -29,7 +30,7 @@
     "debug": "egg-bin debug",
     "test": "npm run lint -- --fix && npm run test-local",
     "test-local": "egg-bin test",
-    "lint-local":" npm run lint -- --fix",
+    "lint-local": " npm run lint -- --fix",
     "cov": "egg-bin cov",
     "lint": "eslint .",
     "ci": "npm run lint && npm run cov",

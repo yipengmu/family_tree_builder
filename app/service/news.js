@@ -8,7 +8,7 @@ class NewsService extends Service {
     // read config
     const { serverUrl, pageSize } = this.config.news;
 
-    // use build-in http client to GET hacker-news api
+      // use build-in http client to GET hacker-news api
     const { data: idList } = await this.ctx.curl(`${serverUrl}/topstories.json`, {
       data: {
         orderBy: '"$key"',
@@ -29,7 +29,7 @@ class NewsService extends Service {
 
     console.log('### service news');
 
-    return newsList.map(res => res.data);
+      return newsList.map(res => res.data);
   }
 }
 
