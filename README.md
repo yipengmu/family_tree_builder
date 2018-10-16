@@ -1,4 +1,4 @@
-# ftree
+# ftree server
 
 family tree
 

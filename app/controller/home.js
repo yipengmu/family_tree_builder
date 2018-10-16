@@ -6,7 +6,7 @@ class HomeController extends Controller {
   async index() {
     let result = await this.ctx.service.getData.getFaimilyTreeData();
 
-    let body =  'hi, family tree \n\n <span>' + JSON.stringify(result) + '</span>';
+    let body =  JSON.stringify(result);
 
     this.ctx.body = body;
 
